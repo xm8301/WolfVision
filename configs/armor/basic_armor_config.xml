@@ -55,13 +55,13 @@
   - 1 Enable
   - 0 Disable
 -->
-<LIGHT_EDTI>0</LIGHT_EDTI>
+<LIGHT_EDTI>1</LIGHT_EDTI>
 <!--
   LIGHT_DRAW - 是否绘制灯条
   - 1 Enable
   - 0 Disable
 -->
-<LIGHT_DRAW>0</LIGHT_DRAW>
+<LIGHT_DRAW>1</LIGHT_DRAW>
 
 <!--
   LIGHT_RATIO_W_H_MIN - 灯条高宽比最小值
@@ -94,13 +94,13 @@
   - 1 Enable
   - 0 Disable
 -->
-<ARMOR_EDIT>0</ARMOR_EDIT>
+<ARMOR_EDIT>1</ARMOR_EDIT>
 <!--
   ARMOR_DRAW - 是否绘制装甲板
   - 1 Enable
   - 0 Disable
 -->
-<ARMOR_DRAW>0</ARMOR_DRAW>
+<ARMOR_DRAW>1</ARMOR_DRAW>
 <!--
   ARMOR_HEIGHT_RATIO_MIN - 装甲板左右灯条高度比最小值
   ARMOR_HEIGHT_RATIO_MAX - 装甲板左右灯条高度比最大值
